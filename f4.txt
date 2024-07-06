@@ -1,4 +1,3 @@
-qqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqq
+00000000000
+11111111111
+00000000000
